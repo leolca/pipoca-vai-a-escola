@@ -38,7 +38,7 @@ Este livro foi criado com o intuito de ajudar crianças (e famílias) a enfrenta
 Para gerar a versão em formato *booklet* (livreto), com marcas de corte para impressão, basta rodar o script:
 
 ```bash
-./createbooklet.sh
+./createbooklet.sh --lang=pt,en
 ```
 
 
